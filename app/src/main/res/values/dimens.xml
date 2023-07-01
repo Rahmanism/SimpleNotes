@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="small_size">8dp</dimen>
+    <dimen name="medium_size">16dp</dimen>
     <dimen name="item_height">120dp</dimen>
     <dimen name="item_font_size">20sp</dimen>
     <dimen name="header_font_size">26sp</dimen>
